@@ -5,7 +5,7 @@
 This project is an AI-powered search engine designed to analyze the users' questions, searching the web based on the Keywords found in the user's question, and provides structured responses based on provided text.
 The system integrates **LLMs (Large Language Models), keyword extraction, web scrapping, summarization, multithreading, and entity recognition** to enhance the accuracy and usefulness of processed text.
 
-## aHow does it work?
+## How does it work?
 ![the idea](https://github.com/user-attachments/assets/176c99dd-0b81-41dc-97c3-feb2b9c69b58)
 
 ## how to use it?
